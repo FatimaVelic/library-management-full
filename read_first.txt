@@ -1,0 +1,42 @@
+Name: Fatima Velic 
+ID: 180302098
+Date: January 7th, 2020.
+
+Project 1 - Little Library: Library Management System 
+
+Folder content
+------------------
+- readme.txt
+- library.sql
+- library: folder
+- 1st progress - html+css :folder
+
+
+Hello sir, 
+
+Once you open and run my project, you'll see it's completely different from its first progress. This change happened due to my incapability to adjust and integrate it with the database and php code. I had to start this project again and change it to suit requirements you asked from us. 
+
+Lots of the code you find here, I found across the internet, mostly on Stack Overflow and through various sources from GitHub. It is done this way since I had no experience in styling with Bootstrap and doing backend development using PhP engine so I had to google and copy stuff. I am not trying to excuse myself from not practicing it more but I am trying to be transparent about my knowledge in this area. 
+
+
+Database Configuration
+----------------------
+
+Password you find inside the configuration files is set for my local server so you'd probably had to modify that. 
+
+Login details
+--------------------- 
+Administrator account: 
+Username: admin 
+Password: Test@123
+
+User accounts:
+Username: Fatima 
+email: fatima@gmail.com
+Password: 12345678
+
+Username: Dzejlana 
+email: dzejlana@gmail.com
+Password: 12345678
+
+
